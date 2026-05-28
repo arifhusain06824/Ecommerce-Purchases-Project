@@ -40,4 +40,4 @@ Improved skills in:
 
 ## Project Link
 
-Ecommerce Purchases Project.ipynb
+[Ecommerce Purchases Project.ipynb](https://github.com/arifhusain06824/Ecommerce-Purchases-Project/tree/main)
