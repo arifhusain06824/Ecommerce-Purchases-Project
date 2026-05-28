@@ -40,4 +40,4 @@ Improved skills in:
 
 ## Project Link
 
-Add your GitHub project link here.
+Ecommerce Purchases Project.ipynb
